@@ -5,7 +5,7 @@ An end-to-end Deep Learning project to segment prominent objects in images using
 ## Performance Summary
 * **Validation Accuracy:** 83.7%
 * **Task:** Semantic Segmentation
-* **Dataset:** 3,308 Image-Mask pairs
+* **Dataset:** 4, 122 Image-Mask pairs
 
 ## Technical Architecture
 * **Model:** Encoder-Decoder CNN
